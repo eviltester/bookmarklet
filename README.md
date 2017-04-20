@@ -12,3 +12,5 @@ For a really minimal bookmarklet just type this into the console
 ~~~~~~~~
 "javascript:(function(){" + encodeURI(window.prompt("")) + "})()"
 ~~~~~~~~
+
+Currently live at [compendiumdev.co.uk/apps/eviltester/bookmarklets.html](http://compendiumdev.co.uk/apps/eviltester/bookmarklets.html)
